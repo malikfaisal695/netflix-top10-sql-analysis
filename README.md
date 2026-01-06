@@ -29,4 +29,10 @@ This project analyzes Netflix Top 10 viewership data using MySQL. The goal is to
 ## Folder Structure
 - `sql/` → SQL scripts for table creation, cleaning, and analysis
 - `data/` → CSV datasets used for analysis
+  <img width="516" height="400" alt="image" src="https://github.com/user-attachments/assets/9d2c72c2-1a03-4321-a39d-f0a5a695e312" />
+  <img width="670" height="473" alt="image" src="https://github.com/user-attachments/assets/37042fdd-aaeb-42a4-9b34-61948b5ef684" />
+
+  
+
+
 
