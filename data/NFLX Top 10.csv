@@ -56,7 +56,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-06-14,2022-06-12,Films (English),The Amazing Spider-Man,null,4,2,8440000
 2022-04-05,2022-04-03,Films (Non-English),Black Crab,null,2,3,11270000
 2022-06-07,2022-06-05,Films (English),A Perfect Pairing,null,2,3,14410000
-2022-04-19,2022-04-17,Films (Non-English),Fack ju Göhte 3,null,9,1,2400000
+2022-04-19,2022-04-17,Films (Non-English),Fack ju GÃ¶hte 3,null,9,1,2400000
 2022-06-28,2022-06-26,Films (Non-English),Through My Window,null,10,13,1500000
 2022-05-03,2022-05-01,Films (Non-English),Bubble,null,3,1,4450000
 2022-06-28,2022-06-26,TV (English),Stranger Things,Stranger Things 4,2,5,76910000
@@ -203,7 +203,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-05-17,2022-05-15,TV (Non-English),The Marked Heart,The Marked Heart: Season 1,2,4,28930000
 2022-06-14,2022-06-12,TV (English),Stranger Things,Stranger Things 3,4,3,47600000
 2022-05-03,2022-05-01,Films (Non-English),Gangubai Kathiawadi,null,1,1,13810000
-2022-06-21,2022-06-19,TV (Non-English),Café con aroma de mujer,Café con aroma de mujer: Season 1,6,18,9760000
+2022-06-21,2022-06-19,TV (Non-English),CafÃ© con aroma de mujer,CafÃ© con aroma de mujer: Season 1,6,18,9760000
 2022-04-05,2022-04-03,Films (Non-English),Battle: Freestyle,null,6,1,3440000
 2022-05-24,2022-05-22,TV (Non-English),The Marked Heart,The Marked Heart: Season 1,4,5,0
 2022-05-03,2022-05-01,TV (English),Grace and Frankie,Grace and Frankie: Season 7,7,1,15470000
@@ -233,7 +233,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-05-10,2022-05-08,TV (English),Ozark,Ozark: Season 1,7,4,13640000
 2022-05-03,2022-05-01,Films (English),Silverton Siege,null,2,1,20280000
 2022-06-28,2022-06-26,TV (Non-English),The War Next-door,The War Next-door: Season 2,6,2,10150000
-2022-04-26,2022-04-24,TV (Non-English),Café con aroma de mujer,Café con aroma de mujer: Season 1,10,17,10390000
+2022-04-26,2022-04-24,TV (Non-English),CafÃ© con aroma de mujer,CafÃ© con aroma de mujer: Season 1,10,17,10390000
 2022-04-12,2022-04-10,Films (Non-English),Dasvi,null,4,1,5690000
 2022-05-17,2022-05-15,Films (Non-English),Raw (Hindi),null,5,1,4790000
 2022-06-07,2022-06-05,Films (English),Sonic the Hedgehog,null,8,6,6500000
@@ -243,7 +243,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-04-05,2022-04-03,Films (Non-English),Forever Out of My League,null,9,1,2770000
 2022-05-17,2022-05-15,TV (Non-English),Tomorrow,Tomorrow: Season 1,9,1,9690000
 2022-06-14,2022-06-12,TV (Non-English),Our Blues,Our Blues: Season 1,5,7,14910000
-2022-06-07,2022-06-05,Films (Non-English),Luccas Neto em: O Plano dos Vilões,null,7,1,2490000
+2022-06-07,2022-06-05,Films (Non-English),Luccas Neto em: O Plano dos VilÃµes,null,7,1,2490000
 2022-04-12,2022-04-10,Films (English),How It Ends,null,8,1,5650000
 2022-05-24,2022-05-22,TV (English),The Lincoln Lawyer,The Lincoln Lawyer: Season 1,1,2,0
 2022-05-31,2022-05-29,Films (English),Turbo,null,8,1,5310000
@@ -284,7 +284,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-05-10,2022-05-08,TV (English),Heartstopper,Heartstopper: Season 1,6,3,14970000
 2022-06-21,2022-06-19,TV (English),God's Favorite Idiot,God's Favorite Idiot: Season 1,8,1,22480000
 2022-06-21,2022-06-19,Films (English),Halftime,null,4,1,18880000
-2022-04-12,2022-04-10,Films (Non-English),Retfærdighedens ryttere,null,9,1,3710000
+2022-04-12,2022-04-10,Films (Non-English),RetfÃ¦rdighedens ryttere,null,9,1,3710000
 2022-04-05,2022-04-03,Films (English),The Bubble,null,2,1,12450000
 2022-05-10,2022-05-08,TV (English),Anatomy of a Scandal,Anatomy of a Scandal: Limited Series,5,4,15340000
 2022-06-07,2022-06-05,TV (Non-English),Our Blues,Our Blues: Season 1,4,6,12910000
@@ -316,10 +316,10 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-04-19,2022-04-17,Films (Non-English),Through My Window,null,10,10,2280000
 2022-04-19,2022-04-17,TV (Non-English),Business Proposal,Business Proposal: Season 1,2,6,24190000
 2022-05-31,2022-05-29,TV (English),Stranger Things,null,3,2,38050000
-2022-04-05,2022-04-03,TV (Non-English),Café con aroma de mujer,Café con aroma de mujer: Season 1,3,14,15230000
+2022-04-05,2022-04-03,TV (Non-English),CafÃ© con aroma de mujer,CafÃ© con aroma de mujer: Season 1,3,14,15230000
 2022-04-05,2022-04-03,TV (Non-English),Business Proposal,Business Proposal: Season 1,1,4,32520000
 2022-05-24,2022-05-22,TV (Non-English),"Yo soy Betty, la fea","Yo soy Betty, la fea: Season 1",10,24,0
-2022-04-05,2022-04-03,TV (Non-English),Pasión de Gavilanes,Pasión de Gavilanes: Season 1,10,1,5530000
+2022-04-05,2022-04-03,TV (Non-English),PasiÃ³n de Gavilanes,PasiÃ³n de Gavilanes: Season 1,10,1,5530000
 2022-04-26,2022-04-24,TV (Non-English),Yakamoz S-245,Yakamoz S-245: Season 1,3,1,22060000
 2022-04-12,2022-04-10,Films (Non-English),Ya veremos,null,10,2,3580000
 2022-04-19,2022-04-17,TV (English),Better Call Saul,Better Call Saul: Season 5,8,2,12430000
@@ -373,7 +373,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-05-03,2022-05-01,Films (Non-English),The Turning Point,null,4,2,3060000
 2022-05-03,2022-05-01,Films (English),The Adam Project,null,8,8,5660000
 2022-04-12,2022-04-10,Films (Non-English),Yaksha: Ruthless Operations,null,3,1,12540000
-2022-04-19,2022-04-17,TV (Non-English),Café con aroma de mujer,Café con aroma de mujer: Season 1,5,16,11350000
+2022-04-19,2022-04-17,TV (Non-English),CafÃ© con aroma de mujer,CafÃ© con aroma de mujer: Season 1,5,16,11350000
 2022-05-31,2022-05-29,TV (Non-English),Welcome to Eden,Welcome to Eden: Season 1,4,4,14340000
 2022-06-28,2022-06-26,TV (English),You Don't Know Me,You Don't Know Me: Season 1,8,1,21910000
 2022-06-07,2022-06-05,TV (Non-English),Welcome to Eden,Welcome to Eden: Season 1,8,5,9030000
@@ -430,7 +430,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-04-12,2022-04-10,TV (Non-English),All of Us Are Dead,All of Us Are Dead: Season 1,8,11,8130000
 2022-05-17,2022-05-15,TV (Non-English),Clark,Clark: Season 1,5,1,10480000
 2022-04-26,2022-04-24,Films (Non-English),Through My Window,null,6,11,2200000
-2022-06-28,2022-06-26,TV (Non-English),Café con aroma de mujer,Café con aroma de mujer: Season 1,5,19,10820000
+2022-06-28,2022-06-26,TV (Non-English),CafÃ© con aroma de mujer,CafÃ© con aroma de mujer: Season 1,5,19,10820000
 2022-06-14,2022-06-12,Films (English),Interceptor,null,2,2,40700000
 2022-05-31,2022-05-29,Films (English),Sonic the Hedgehog,null,5,5,8910000
 2022-06-21,2022-06-19,Films (English),Spiderhead,null,2,1,35400000
@@ -497,7 +497,7 @@ date_added,week,category,show_title,season_title,weekly_rank,cumulative_weeks_in
 2022-05-24,2022-05-22,TV (Non-English),Welcome to Eden,Welcome to Eden: Season 1,2,3,0
 2022-05-17,2022-05-15,TV (Non-English),The Sound of Magic,The Sound of Magic: Season 1,4,2,16930000
 2022-05-10,2022-05-08,Films (English),Men in Black: International,null,8,1,7370000
-2022-04-12,2022-04-10,TV (Non-English),Café con aroma de mujer,Café con aroma de mujer: Season 1,5,15,13050000
+2022-04-12,2022-04-10,TV (Non-English),CafÃ© con aroma de mujer,CafÃ© con aroma de mujer: Season 1,5,15,13050000
 2022-06-21,2022-06-19,Films (Non-English),Don,null,8,2,2740000
 2022-04-26,2022-04-24,TV (English),Bridgerton,Bridgerton: Season 1,6,5,17280000
 2022-05-31,2022-05-29,Films (Non-English),Godspeed,null,8,1,4640000
